@@ -1,0 +1,17 @@
+LES GARDIENS DU TEMPS — LA CITÉ DES SOUVENIRS EFFACÉS
+Campagne en 5 niveaux — Histoire, 1re secondaire
+
+OUVRIR : index.html avec Chrome, puis choisir un niveau.
+Aucune installation ni serveur requis. Tous les niveaux embarquent les ressources dans leur HTML.
+Niveau 1 : Les eaux des deux fleuves (DELUXE)
+Niveau 2 : Le marché des mille échanges (surplus, spécialisation, commerce)
+Niveau 3 : Les archives perdues (écriture, registres, limites des sources)
+Niveau 4 : Le pouvoir de la cité (organisation sociale, pouvoirs, religion)
+Niveau 5 : Le cœur de l’Oubli (synthèse historique et boss final)
+
+COMMANDES : Gauche/Droite ou A/D ; Espace ou flèche haut = saut ; J = attaque ; E = interagir ; 1 à 4 = répondre ; P = pause.
+
+Chaque chapitre possède trois questions contextualisées, quatre choix plausibles, des explications, 12 fragments, des ennemis, un boss et des sauvegardes locales indépendantes.
+L'écran d'accueil affiche les niveaux terminés quand un élève y revient depuis le même navigateur.
+
+LIMITES : cette campagne réutilise le moteur et les sprites du niveau 1 DELUXE, avec des décors additionnels différenciés pour les nouveaux niveaux. La topologie de plateformes demeure comparable entre les niveaux; ce n'est pas une refonte intégrale avec cinq cartes entièrement originales. Le bilan scolaire individuel centralisé n'est pas intégré.
